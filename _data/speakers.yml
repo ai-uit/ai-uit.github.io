@@ -1,0 +1,25 @@
+- name: Dr. Martin Welß
+  title: Fraunhofer IAIS, Germany
+  image: /assets/img/speakers/mw.jpg
+  bio: >
+    Martin is the chief architect of the opensource Graphene project that is a framework to create modular AI workflows. Previously he worked for over 25 years in Java enterprise projects for finance and telecommunications companies.
+  talk: "AI Builder"
+  time: "09:45 – 10:30"
+
+- name: Dr. Jennifer Renoux
+  title: Örebro University, Sweden
+  image: /assets/img/speakers/jennifer.jpg
+  bio: >
+    Jennifer Renoux is a Docent (Associate Professor) at the Center for Applied Autonomous Sensor Systems, Örebro University, Sweden. Her current research concerns the technical, behavioural, and ethical aspects of human-AI communication. She received her Ph.D. in 2015 from the University of Caen Normandy, France. Since 2016, she has been a researcher at Örebro University, working on various topics related to collaborative AI, including multi-agent systems and epistemic planning. She is also very active in science popularisation initiatives, with several articles published in local newspapers, and more than a dozen presentations to businesses and the general public.  
+  talk: "AIoD Community"
+  time: "11:40 - 12:30"
+
+- name: Martin Tamajka
+  title: Kempelen Institute of Intelligent Technologies, Slovakia
+  image: /assets/imag/speakers/mt.jpg
+  bio: >
+    Martin Tamajka is a Tech lead at Kempelen Institute of Intelligent Technologies. He focuses on the research of new methods of deep learning, which includes, among other things, current models of natural language processing and increasing the transparency of neural networks through explainability methods and image data analysis. He participated in and led several industrial collaborations and research projects, aimed, among other things, at creating a pan-European platform for AI researchers, analysing historical cultural heritage with the help of artificial intelligence, or increasing the transparency of artificial intelligence models in the context of the fight against disinformation.
+  talk: "RAIL"
+  time: "10:50 - 11:40"
+  
+  
