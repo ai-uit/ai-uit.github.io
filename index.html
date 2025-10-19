@@ -56,6 +56,26 @@ layout: default
     <!-- </p> -->
   </div>
 </section>
+
+{% if site.data.speakers %}
+  <section id="speakers">
+    <h1>Speakers</h1>
+    <div class="items-container" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+      {% for speaker in site.data.speakers %}
+        <div class="item-large" style="flex: 1 1 calc(33% - 2rem); max-width: 300px; text-align: center;">
+          <img src="{{ speaker.image }}" alt="{{ speaker.name }}" style="width: 100%; border-radius: 8px;">
+          <h2>{{ speaker.name }}</h2>
+          <h4>{{ speaker.title }}</h4>
+          <p><strong>{{ speaker.talk }}</strong><br><em>{{ speaker.time }}</em></p>
+          <p>{{ speaker.bio }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+{% endif %}
+
+
+
 {% if site.data.schedule %}
   <section id="schedule">
     <h1>Schedule</h1>
