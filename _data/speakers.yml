@@ -6,6 +6,14 @@
   talk: "AI Builder"
   time: "09:45 – 10:30"
 
+- name: Martin Tamajka
+  title: KInIT, Slovakia
+  image: images/people/mt.jpg
+  bio: >
+    Martin Tamajka is a Tech lead at Kempelen Institute of Intelligent Technologies. He focuses on the research of new methods of deep learning, which includes, among other things, current models of natural language processing and increasing the transparency of neural networks through explainability methods and image data analysis. He participated in and led several industrial collaborations and research projects, aimed, among other things, at creating a pan-European platform for AI researchers, analysing historical cultural heritage with the help of artificial intelligence, or increasing the transparency of artificial intelligence models in the context of the fight against disinformation.
+  talk: "RAIL"
+  time: "10:50 - 11:40"
+
 - name: Jennifer Renoux
   title: Örebro University, Sweden
   image: images/people/jennifer.jpg
@@ -14,12 +22,5 @@
   talk: "AIoD Community"
   time: "11:40 - 12:30"
 
-- name: Martin Tamajka
-  title: Kempelen Institute of Intelligent Technologies, Slovakia
-  image: images/people/mt.jpg
-  bio: >
-    Martin Tamajka is a Tech lead at Kempelen Institute of Intelligent Technologies. He focuses on the research of new methods of deep learning, which includes, among other things, current models of natural language processing and increasing the transparency of neural networks through explainability methods and image data analysis. He participated in and led several industrial collaborations and research projects, aimed, among other things, at creating a pan-European platform for AI researchers, analysing historical cultural heritage with the help of artificial intelligence, or increasing the transparency of artificial intelligence models in the context of the fight against disinformation.
-  talk: "RAIL"
-  time: "10:50 - 11:40"
   
   
