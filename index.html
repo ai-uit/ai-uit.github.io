@@ -20,7 +20,18 @@ layout: default
         {{ site.data.action.text | markdownify }}
       {% endif %}
     </p>
-  {% endif %}
+
+  <!-- 🎁 Prize announcement -->
+  <div class="announcement" style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap; margin-top: 1rem;">
+    <img src="images/jbl.jpg"
+         alt="JBL Xtreme 4 Bluetooth Speaker"
+         style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <p style="font-weight: 600; color: #ffd700; margin: 0;">
+      🎉 One lucky attendee will win a <strong>JBL Xtreme 4 Bluetooth Speaker</strong>  
+      in a live lottery during one of the event sessions!
+    </p>
+  </div>
+{% endif %}
 
   <!-- <p>
     Follow us on <a href="https://facebook.com/{{ site.data.info.facebook }}"
