@@ -3,11 +3,11 @@
 # Use an empty string ('') for the day names if you do not want headers.
 
 Monday:
-  '08:45-09:30': Registration, Coffee and Snacks
+  '09:00-09:30': Registration, Coffee and Snacks
   '09:30-09:45': Welcome
   '09:45-10:30': AI Builder - Martin Welß (Fraunhofer IAIS, Germany)
   '10:30-10:50': Coffee break
-  '10:50-11:40': RAIL - Martin Tamajka (Kempelen Institute of Intelligent Technologies, Slovakia)
-  '11:40-12:30': AIoD Community - Jennifer Renoux (Örebro University, Sweden) 
+  '10:50-11:45': RAIL - Martin Tamajka (Kempelen Institute of Intelligent Technologies, Slovakia)
+  '11:45-12:30': AIoD Community - Jennifer Renoux (Örebro University, Sweden) 
   '12:30-13:30': Lunch (and mingling)
 
