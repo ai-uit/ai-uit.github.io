@@ -10,8 +10,8 @@ location: ILP Building, UiT - The Arctic University of Norway, Tromsø campus
 # Event description; short is for e.g. Facebook shared links, long appears on the home page.
 description_short: Introducing AI-on-Demand platform! Learn and do AI without requiring coding skills. 
 description_long: |-
-  This event aims to introduce the AIoD platform to the local community in Tromsø, Norway, with a special focus on empowering university students, researchers, and small and medium-sized enterprises (SMEs).
-  The program highlights how AIoD lowers the barriers to artificial intelligence adoption by enabling the creation of AI-driven solutions — even without coding experience. 
+  This event aims to introduce <a href="https://aiod.eu/">the AIoD platform</a> to the local community in Tromsø, Norway, with a special focus on empowering university students, researchers, and small and medium-sized enterprises (SMEs).
+  The program highlights how <a href="https://aiod.eu/">AIoD</a> lowers the barriers to artificial intelligence adoption by enabling the creation of AI-driven solutions — even without coding experience. 
   Through a mix of insightful presentations, participants will discover practical ways to explore, experiment, and innovate with AI.
 # Contact email. Use a bot-defeating format, otherwise you'll get spammed.
 email: aakash dot sharma at uit dot no
